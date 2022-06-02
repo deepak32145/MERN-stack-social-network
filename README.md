@@ -1,0 +1,1 @@
+run npm i and npm start for both client and server..
